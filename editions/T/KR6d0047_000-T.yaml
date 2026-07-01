@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0047/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀音玄義記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T34/T34n1727.xml
+    old_id: T34n1727
+hash: sha256:a23aa57f41e2d90fe65f5fb7cb64e8248585eca89db67471898859485a3b3b1a

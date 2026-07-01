@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6d0047/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0047/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀音玄義記
+  identifiers:
+    krp: KR6d0047
+    cbeta: T34n1727
+    cbeta_old_id: T34n1727
+    authorityid: CA0001247
+    json_key: T1727
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T34/T34n1727.xml
+    old_id: T34n1727
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0047_000-T.yaml, hash: 'sha256:a23aa57f41e2d90fe65f5fb7cb64e8248585eca89db67471898859485a3b3b1a'}
+  - {seq: 1, filename: KR6d0047_001-T.yaml, hash: 'sha256:068ca7c46b70310c6865b741441809c68ba330fb79247d31298a90e4e9f5753b'}
+  - {seq: 2, filename: KR6d0047_002-T.yaml, hash: 'sha256:7ab3129d253e86a454f985de9bab938c96b73a6bf871715e544d3add025cebf9'}
+  - {seq: 3, filename: KR6d0047_003-T.yaml, hash: 'sha256:e7da20e9b9394b10a3fee3a94fdf3fbd2f061bb135a6ee91d3a6bacc4c01e0dd'}
+  - {seq: 4, filename: KR6d0047_004-T.yaml, hash: 'sha256:66543e048d2f6c45e3a138fcf25644939a8c88311ad60d9d7d03d5bd5520718d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0047_000-T.markers.yaml, hash: 'sha256:34ed80b509d4a9c106c7cc0f3a2dc591fe9b55f2ea5c02605c74049fed1daae2'}
+  - {seq: 1, role: markers, filename: assets/KR6d0047_001-T.markers.yaml, hash: 'sha256:466697cac6a03c7d257ba086e35575178140411f82161be73cf20616b3cbd9c1'}
+  - {seq: 2, role: markers, filename: assets/KR6d0047_002-T.markers.yaml, hash: 'sha256:c965a92d62faf93f6aa7a5dedfebba5c0585bc3c177c79f9428e325ad537698c'}
+  - {seq: 3, role: markers, filename: assets/KR6d0047_003-T.markers.yaml, hash: 'sha256:c43252eefc919b46d62c0cf2e8f6c1d0c28e66508412c59441dc06b3238afd6c'}
+  - {seq: 4, role: markers, filename: assets/KR6d0047_004-T.markers.yaml, hash: 'sha256:f1f64b5b3d76516a39a7000a5ebfa3b7ab33df0d172777fda6a0b796f699a6e8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0047_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 11397
+  label: 觀音玄義記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0047_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 12788
+  label: 觀音玄義記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0047_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9528
+  label: 觀音玄義記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0047_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8812
+  label: 觀音玄義記卷第四
+  type: juan
+  level: 1
+hash: sha256:e41756a3ab7f923b5d96505ce7202e7a2e186dbfdac979462a0cf33f58c4bf1d
